@@ -1,0 +1,10 @@
+[Accessed Data]
+3	b	0x1
+68	h	0xedcb
+4	h	0xeddc
+48	w	0xcdde3221
+69	b	0xed
+----------------------------------------------
+[Fully associative cache performance]
+Hit ratio = 0.40 (2/5)
+Bandwidth = 0.03 (10/305)
